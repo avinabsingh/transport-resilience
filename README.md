@@ -95,7 +95,7 @@ Evaluation Metrics:
 
 ---
 
-## How to Run the Project
+## How to Clone the Project
 
 ### 1️⃣ Clone Repository
 ```bash
