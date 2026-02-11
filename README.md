@@ -102,19 +102,4 @@ Evaluation Metrics:
 git clone https://github.com/YOUR_USERNAME/transport-resilience.git
 cd transport-resilience
 
----
-
-## 2️⃣ Setup Python Environment
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
-
-**3️⃣ Run Backend Server**
-uvicorn src.api.server:app --reload
-
-**
-4️⃣ Run Frontend**
-cd frontend
-npm install
-npm run dev
 
